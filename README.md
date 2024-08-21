@@ -36,30 +36,6 @@
 
 ###
 
-<img align="left" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VzYmhqZjlqc3Y4MDBiemF1dXpnaHlhMDR3MzVzNmdrazdiaWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.webp"  />
-
-###
-
-<img align="left" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VzYmhqZjlqc3Y4MDBiemF1dXpnaHlhMDR3MzVzNmdrazdiaWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.webp"  />
-
-###
-
-<img align="left" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VzYmhqZjlqc3Y4MDBiemF1dXpnaHlhMDR3MzVzNmdrazdiaWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.webp"  />
-
-###
-
-<img align="left" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VzYmhqZjlqc3Y4MDBiemF1dXpnaHlhMDR3MzVzNmdrazdiaWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.webp"  />
-
-###
-
-<img align="left" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VzYmhqZjlqc3Y4MDBiemF1dXpnaHlhMDR3MzVzNmdrazdiaWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.webp"  />
-
-###
-
-<img align="left" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VzYmhqZjlqc3Y4MDBiemF1dXpnaHlhMDR3MzVzNmdrazdiaWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.webp"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Enockjoao/Enockjoao/output/snake.svg" alt="Snake animation" />
