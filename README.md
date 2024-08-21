@@ -22,11 +22,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  Estudando Java script, Go, .NET, Python, e CybeSecurity</h3>
+<h3 align="left">👩‍💻  Estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" /> script, Go, .NET, Python, e CybeSecurity</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning: Java  script, Go, .NET, Python, e CybeSecurity ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
