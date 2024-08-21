@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Iae Tranquilo 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Estudando Java script, Go, .NET, Python, e CybeSecurity</h3>
 
 ###
 
