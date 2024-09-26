@@ -38,12 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Enockjoao/Enockjoao/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Enockjoao/count.svg?"  />
 </div>
