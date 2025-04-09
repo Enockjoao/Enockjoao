@@ -34,6 +34,10 @@
 ## 🛠️ Technologies & Tools  
 
 <p align="left">
+  <!-- Google Cloud Platform -->
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -77,8 +81,8 @@
 
   <!-- Scrapy -->
   <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/scrapy/scrapy.github.com/master/static/img/scrapylogo.png" alt="Scrapy" width="40" height="40"/>
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Scrapy" width="40" height="40"/>
+</a>
 
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
