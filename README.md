@@ -70,6 +70,20 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
+  <!-- Requests -->
+  <a href="https://docs.python-requests.org/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/psf/requests/main/docs/_static/requests-sidebar.png" alt="Requests" width="40" height="40" />
+  </a>
+
+  <!-- Scrapy -->
+  <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+    <img src="https://scrapy.org/img/logo.png" alt="Scrapy" width="40" height="40" />
+  </a>
+
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logo.png" alt="Selenium" width="40" height="40" />
+  </a>
 </p>
 
 ---
