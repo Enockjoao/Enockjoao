@@ -14,7 +14,6 @@
 
 ---
 
-## 💼 Sobre Mim
 
 ## 💼 Sobre Mim
 ```ruby
