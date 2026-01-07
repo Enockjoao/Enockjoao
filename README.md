@@ -16,7 +16,6 @@
 
 ## 💼 Sobre Mim
 
-```ruby
 class Desenvolvedor
   attr_accessor :nome, :cargo, :localizacao, :stack_principal
 
@@ -39,7 +38,6 @@ class Desenvolvedor
     ["Arquitetura MVC avançada", "Big Data", "Cloud (GCP/AWS)"]
   end
 end
-```
 
 ---
 
