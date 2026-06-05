@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enockjoao&label=Visualiza%C3%A7%C3%B5es&color=dc3545&style=for-the-badge" alt="Profile Views" />
+  <a href="https://enockjoao.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-🌐-E34F26?style=for-the-badge&logoColor=white" alt="Portfólio Web"/>
+  </a>
   <a href="https://www.linkedin.com/in/joao-victor-enock-972b682b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -13,7 +16,6 @@
 </p>
 
 ---
-
 
 ## 💼 Sobre Mim
 ```ruby
