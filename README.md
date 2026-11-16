@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E34F26&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Victor+Enock+%F0%9F%91%8B;Desenvolvedor+Ruby+on+Rails;Engenheiro+de+Dados;Automa%C3%A7%C3%A3o+%26+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4B4&center=true&vCenter=true&width=700&lines=Jo%C3%A3o+Victor+Enock;Engenheiro+de+Dados+%26+Automa%C3%A7%C3%A3o;Data+%26+Automation+Engineer;ETL+%7C+RPA+%7C+IA+%7C+.NET" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enockjoao&label=Visualiza%C3%A7%C3%B5es&color=dc3545&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=enockjoao&label=Visualiza%C3%A7%C3%B5es&color=00C4B4&style=for-the-badge" alt="Profile Views" />
   <a href="https://enockjoao.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-🌐-E34F26?style=for-the-badge&logoColor=white" alt="Portfólio Web"/>
+    <img src="https://img.shields.io/badge/Portfólio-00C4B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
   </a>
-  <a href="https://www.linkedin.com/in/joao-victor-enock-972b682b9/">
+  <a href="https://www.linkedin.com/in/joao-victor-enock/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dev.to/enockjoao">
@@ -17,135 +17,85 @@
 
 ---
 
-## 💼 Sobre Mim
-```ruby
-class Desenvolvedor
-  attr_accessor :nome, :cargo, :localizacao, :stack_principal
+### 👋 Sobre Mim
 
-  def initialize
-    @nome = "João Victor Enock"
-    @cargo = "Técnico Judiciário - TRF1"
-    @localizacao = "Brasil 🇧🇷"
-    @stack_principal = ["Ruby on Rails", "Python", "SQL", "Power Automate"]
-  end
+**Engenheiro de Dados e Automação** focado em projetar, construir e escalar **pipelines de dados (ETL/ELT)**, arquiteturas de ingestão e sistemas de **hiperautomação (RPA)**.
 
-  def projetos_em_destaque
-    {
-      "Analisador de Documentos Jurídicos" => "IA com Google Gemini para análise de +10.000 processos",
-      "Automações PJE" => "Fluxos Power Automate para sistema processual eletrônico",
-      "Web Apps Rails" => "Aplicações fullstack com Bootstrap e MySQL"
-    }
-  end
+Atuo na interseção entre **Engenharia de Dados**, **Engenharia de Software** e **Inteligência Artificial**, transformando fluxos operacionais complexos em processos autônomos e orientados a dados.
 
-  def aprendendo_agora
-    ["Arquitetura MVC avançada", "Big Data", "Cloud (GCP/AWS)"]
-  end
-end
-```
+Antes de consolidar essa atuação, acumulei **8 anos de experiência** em operações de missão crítica no **Exército Brasileiro** e na gestão estratégica do **Tribunal Regional Federal da 1ª Região (TRF1)**. Essa vivência me deu rigor analítico, governança de dados e foco absoluto em confiabilidade e disponibilidade de sistemas em produção.
 
 ---
 
-## 🛠️ Stack Tecnológica
+### 🚀 Principais Entregas
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
-      <br><strong>Ruby</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="48" height="48" alt="Rails" />
-      <br><strong>Rails</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br><strong>Linux</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
-      <br><strong>GCP</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
-      <br><strong>AWS</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" alt="Selenium" />
-      <br><strong>Selenium</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="48" height="48" alt="Hadoop" />
-      <br><strong>Hadoop</strong>
-    </td>
-  </tr>
-</table>
+| Área | Entrega |
+|------|--------|
+| **Engenharia de Dados & IA (RAG)** | Pipelines ETL de grandes volumes de documentos jurídicos não estruturados usando **Python + Google Gemini + RAG**. Processou **+10.000 processos** no TRF1. |
+| **Engenharia de Software & APIs** | APIs RESTful de alta performance em **C# / .NET 10** (Clean Architecture + SOLID) — exemplo: *Lead Intelligence API*. |
+| **Automação de Processos (RPA)** | Orquestração de robôs e fluxos corporativos de ponta a ponta com **Power Automate**, **UiPath** e scripts customizados (Windows / Linux / WSL2). |
 
 ---
 
-## 🏆 Projetos em Destaque
+### 🛠️ Stack Tecnológica
+
+#### Engenharia de Dados & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Automação, IA & Cloud
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### Outros
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🏆 Projetos em Destaque
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Analisador de Documentos Jurídicos</h3>
-      <p align="center">
-        Sistema de IA utilizando <strong>Python + Google Gemini API</strong> para análise automatizada de processos judiciais. Processou mais de <strong>10.000 casos</strong> no TRF1.
+    <td width="50%" valign="top">
+      <h3>🤖 Analisador de Documentos Jurídicos (RAG)</h3>
+      <p>
+        Pipeline de <strong>ETL + RAG</strong> com <strong>Python + Google Gemini</strong> para análise automatizada de processos judiciais.<br>
+        Processou mais de <strong>10.000 casos</strong> no TRF1, eliminando gargalos de triagem manual.
+      </p>
+      <p>
+        <a href="https://github.com/Enockjoao/PJE_AI_Processor">
+          <img src="https://img.shields.io/badge/Repositório-181717?style=flat&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚙️ Automações PJE</h3>
-      <p align="center">
-        Fluxos de automação com <strong>Power Automate Desktop</strong> para otimização de tarefas repetitivas no sistema processual eletrônico.
+    <td width="50%" valign="top">
+      <h3>⚙️ Automações PJE (RPA)</h3>
+      <p>
+        Orquestração de fluxos com <strong>Power Automate Desktop</strong> e scripts customizados para o sistema processual eletrônico (PJE), reduzindo drasticamente o tempo de tarefas operacionais.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Ministério Promessa nas Nações</h3>
-      <p align="center">
-        Aplicação web fullstack desenvolvida com <strong>Ruby on Rails + Bootstrap</strong>. Sistema completo para gestão de ministérios da igreja.
+    <td width="50%" valign="top">
+      <h3>🔌 Lead Intelligence API</h3>
+      <p>
+        API RESTful de alta performance em <strong>C# / .NET 10</strong> com Clean Architecture e SOLID para segmentação e qualificação inteligente de leads.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📚 The Root Room</h3>
-      <p align="center">
-        Sistema de gerenciamento de biblioteca desenvolvido em <strong>Rails</strong> como projeto de aprendizado MVC.
+    <td width="50%" valign="top">
+      <h3>🌐 Ministério Promessa nas Nações</h3>
+      <p>
+        Aplicação fullstack em <strong>Ruby on Rails + Bootstrap</strong> para gestão completa de ministérios, eventos e integração com WhatsApp.
       </p>
     </td>
   </tr>
@@ -153,28 +103,28 @@ end
 
 ---
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enockjoao&show_icons=true&theme=radical&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enockjoao&theme=radical&hide_border=true&locale=pt-br" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enockjoao&show_icons=true&theme=transparent&hide_border=true&title_color=00C4B4&icon_color=00C4B4&text_color=ffffff&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enockjoao&theme=transparent&hide_border=true&ring=00C4B4&fire=00C4B4&currStreakLabel=00C4B4" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockjoao&layout=compact&theme=radical&hide_border=true&locale=pt-br" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enockjoao&theme=radical&no-frame=true&no-bg=true&column=7" alt="Troféus" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockjoao&layout=compact&theme=transparent&hide_border=true&title_color=00C4B4&text_color=ffffff&bg_color=0D1117" />
 </p>
 
 ---
 
-## 🐍 Contribuições
+### 🏅 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enockjoao&theme=onedark&no-frame=true&no-bg=true&column=7" alt="Troféus" />
+</p>
+
+---
+
+### 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enockjoao/enockjoao/output/github-contribution-grid-snake-dark.svg">
@@ -186,4 +136,9 @@ end
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <strong>Disponível para oportunidades em Engenharia de Dados, Automação e IA</strong><br>
+  Brasília • Brasil 🇧🇷
 </p>
